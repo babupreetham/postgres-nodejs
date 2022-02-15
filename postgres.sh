@@ -1,4 +1,7 @@
 $ brew install postgresql
+#postgresql
+#postgresql
+#postgresql
 ==> Downloading http://ftp2.uk.postgresql.org/sites/ftp.postgresql.org/source/v8.4.2/postgresql-8.4.2.tar.bz2
 ######################################################################## 100.0%
 ==> ./configure --enable-thread-safety --with-bonjour --with-python --with-perl --with-gssapi --with-krb5 --with-openssl --with-libxml --with-libxsl
