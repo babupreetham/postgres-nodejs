@@ -1,5 +1,7 @@
 #!/bin/sh
-
+#nodejs
+#nodejs
+#nodejs
 #version details
 VERSION=0.8.8
 PLATFORM=linux
